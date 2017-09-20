@@ -1,0 +1,37 @@
+(\s|<|^)(o|O)\S*@\S*(com|org)
+34
+untitled:5389: To: outlook.team@enron.com
+untitled:10713: To: outlook.team@enron.com
+untitled:11587: Outlook.2000@enron.com
+untitled:13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+untitled:19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+untitled:30117: in the subject line, or send a blank e-mail to
+untitled:30122: blank e-mail to on-yild@zdemail.zdlists.com
+untitled:35982: Sender: owner-strawbale@crest.org
+untitled:36031: From: owner-strawbale@crest.org
+untitled:36036: X-From: owner-strawbale@crest.org
+untitled:36055: Sender: owner-strawbale@crest.org
+untitled:38056: To: outlook.team@enron.com
+untitled:39073: Outlook.2000@enron.com
+untitled:41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+untitled:48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+untitled:52637: From: outlook-migration-team@enron.com
+untitled:52653: From: outlook-migration-team@enron.com
+untitled:54429: you prefer not to receive emails of this nature please send an email to rem=
+untitled:59228: From: online.service@schwab.com
+untitled:59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+untitled:64780: mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com,
+untitled:68977: From: open2win.0ll1.net@mailman.enron.com
+untitled:68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+untitled:73066: From: oportunity@cells4free.com
+untitled:73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+untitled:81774: in the subject line, or send a blank e-mail to
+untitled:81779: blank e-mail to on-yild@zdemail.zdlists.com
+untitled:85063: From: owner-strawbale@crest.org
+untitled:85068: X-From: owner-strawbale@crest.org
+untitled:85087: Sender: owner-strawbale@crest.org
+untitled:86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+untitled:90620: Sender: owner-strawbale@crest.org
+untitled:90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+untitled:92996: Outlook.2000@enron.com
+
